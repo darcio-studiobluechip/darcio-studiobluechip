@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @darcio-studiobluechip
+- 👋 Hi, I’m [Darcio](https://github.com/darcio-studiobluechip)
 - 👀 I’m interested in **game development**
 - 🌱 I’m currently learning **gdscript** and **python**
 - 💞️ I’m looking to collaborate on create greate games
